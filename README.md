@@ -1,5 +1,8 @@
 ## Olá! Eu sou o Leonardo Rosa 🖐️
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-rosa-sales-5b49b3211/)
+[![Instagram](    https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+
 ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoRosaSales&show_icons=true&theme=cobalt)
 
 ## Tecnologias que eu uso
@@ -11,3 +14,7 @@
     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoRosaSales&layout=pie)](https://github.com/LeonardoRosaSales/github-readme-stats)
